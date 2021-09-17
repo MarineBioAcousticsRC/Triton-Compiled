@@ -17,3 +17,5 @@ in the MathWorks Documentation Center.
 
 For a compiled version **including** the runtime environment, [click here.](https://drive.google.com/drive/folders/17bD9eU7xyMqppIpI898sYrsmvSHJuhns?usp=sharing)
 
+For instructions, please visit [the wiki](https://github.com/MarineBioAcousticsRC/Triton/wiki).
+
